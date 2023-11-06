@@ -15,4 +15,5 @@ public class Payment {
     int amount;
     int referenceNumber;
     String paymentDate;
+    String paymentStatus;
 }

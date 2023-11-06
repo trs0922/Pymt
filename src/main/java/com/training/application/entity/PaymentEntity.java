@@ -58,5 +58,8 @@ public class PaymentEntity {
     @Column(name = "payment_date")
     String paymentDate;
 
+    @Column(name = "payment_status")
+    String paymentStatus;
+
 
 }
